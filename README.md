@@ -13,7 +13,7 @@ Este repositorio contiene los diagramas de los niveles 1 al 9 del juego [Light B
 
 ### Estructura del Repositorio
 
-- **Diagrama de Nivel X**: Cada .jpg contiene un diagrama específico para uno de los niveles del juego, detallando la secuencia de comandos y funciones necesarias.
+- **Diagrama de Nivel X**: Cada .png contiene un diagrama específico para uno de los niveles del juego, detallando la secuencia de comandos y funciones necesarias.
 
 ## Micro Desafío Extra: Cálculo del Nuevo Sueldo
 
